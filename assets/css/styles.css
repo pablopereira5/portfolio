@@ -205,6 +205,9 @@ button, a, .cv_href{
 .fa-database{
     color: gray;
 }
+fa-git-alt{
+    color: orange;
+}
 .progress-bar{
     background-color: #48f29d!important;
 }
