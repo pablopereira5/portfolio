@@ -500,10 +500,12 @@ footer .copy{
     .display{
         display: inline-block;
     }
-    .card{
+    .card .col{
         margin-bottom: 30px;
-        width: 50%!important;
-        display: inline-block;
+        
+    }
+    .col{
+        margin: auto;
     }
     .hobbies_container{
         flex-direction: column;
@@ -574,12 +576,15 @@ footer .copy{
     .img_form{
         margin-left: -300px;
     }
+    .col{
+        margin: auto;
+    }
 }
 @media screen and (max-width: 590px){
     .about_me_section{
         margin-right: -100px;
     }
-    .skills, .container, {
+    .skills, .container {
         margin-left: 100px;
     }
 }
@@ -607,7 +612,7 @@ footer .copy{
         margin-right: -50px;
     }
     .card{
-        width: 80%!important;
+        
     }
     .social, li{
         display: flex;
