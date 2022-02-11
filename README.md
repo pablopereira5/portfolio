@@ -21,4 +21,4 @@ Este proyecto tiene como finalidad mostrar quien soy, a qué me dedico, mis hobb
 
 
 
-**PABLO PEREIRA, todos los derechos reservados &copy; 2021**
+**PABLO PEREIRA, todos los derechos reservados &copy; 2022**
