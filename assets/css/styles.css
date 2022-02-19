@@ -601,7 +601,7 @@ footer .copy{
         font-size: 50px!important;
     }
 }
-@media screen and (max-width: 490px){
+@media screen and (max-width: 491px){
     .about_me_section{
         margin-right: -50px;
     }
@@ -612,6 +612,14 @@ footer .copy{
         display: flex;
         justify-content: center;
         list-style: none;
+    }
+    .display{
+             margin: 0px; 
+     padding: 0px; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+}
     }
 }
 
